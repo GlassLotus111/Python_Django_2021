@@ -1,3 +1,10 @@
+
+###########################
+#Learn Python Coding 2021
+#Course taught by John Elder, 2019
+#Codemy.com
+###########################
+
 import os
 os.system('clear')
 
